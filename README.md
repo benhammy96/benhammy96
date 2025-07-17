@@ -13,6 +13,6 @@ Currently interning at a startup where I build features across a React Native + 
   
 ---
 
-## 📫 Contact Me
-- 📧 Email: [benhammy96@yahoo.com](mailto:benhammy96@yahoo.com)
-- 💼 LinkedIn: [linkedin.com/in/benjamin-hamilton-a6b0a391](https://www.linkedin.com/in/benjamin-hamilton-a6b0a391)
+## Contact Me
+- Email: [benhammy96@yahoo.com](mailto:benhammy96@yahoo.com)
+- LinkedIn: [linkedin.com/in/benjamin-hamilton-a6b0a391](https://www.linkedin.com/in/benjamin-hamilton-a6b0a391)
