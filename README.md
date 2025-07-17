@@ -1,10 +1,18 @@
-👋 Hi, I’m @benhammy96
-👀 I’m interested in software development, LLMs, and automation.
-🌱 I’m currently learning more about JavaScript frameworks like React and Node.js to build modern web applications.
-💬 I’m looking to collaborate on open-source projects.
-📫 How to reach me: You can email me at benhammy96@yahoo.com or connect with me on LinkedIn.
+# 👋 Hi! I'm Ben
 
-<!---
-benhammy96/benhammy96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at UMass Amherst interested in full-stack development, systems engineering, and automation.  
+Currently interning at a startup where I build features across a React Native + Django stack, and learning how to ship clean, scalable code that actually gets used.
+
+---
+
+## About Me
+- Passionate about building cool and useful tools with code
+- Intern @ Ringlet | Former Intern @ Hire Partnership
+- Experienced with TypeScript, Python, Django, React Native
+- Looking to collaborate on open source and startup projects
+  
+---
+
+## 📫 Contact Me
+- 📧 Email: [benhammy96@yahoo.com](mailto:benhammy96@yahoo.com)
+- 💼 LinkedIn: [linkedin.com/in/benjamin-hamilton-a6b0a391](https://www.linkedin.com/in/benjamin-hamilton-a6b0a391)
