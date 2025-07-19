@@ -6,10 +6,10 @@ Currently interning at a startup where I build features across a React Native + 
 ---
 
 ## About Me
-- Passionate about building cool and useful tools with code
-- Intern @ Ringlet | Former Intern @ Hire Partnership
-- Experienced with TypeScript, Python, Django, React Native
-- Looking to collaborate on open source and startup projects
+- Passionate about building cool and useful tools with code.
+- Intern @ Ringlet | Former Intern @ Hire Partnership.
+- Experienced with TypeScript, Python, Django, React Native.
+- Looking to collaborate on open source and startup projects.
   
 ---
 
