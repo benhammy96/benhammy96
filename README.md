@@ -1,4 +1,4 @@
-# Hi! I'm Ben!
+# Hi, I'm Ben!
 
 I’m a junior Computer Science student at UMass Amherst interested in full-stack development, systems engineering, and automation. I previously interned at a pre-seed startup, where I built features across a React Native + Django stack and learned how to ship clean, scalable code that real users rely on.
 
